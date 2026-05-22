@@ -26,8 +26,6 @@ function App() {
 
   if (counter == 0 || counter == 20) {
     console.log("STOP");
-
-    removeAttribute('onClick', "#addBtn")
   }
 
   return (
