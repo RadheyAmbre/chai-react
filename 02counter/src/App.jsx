@@ -17,6 +17,15 @@ function App() {
     console.log("after clicked", counter);
   }
 
+  // const addValue = () => {
+  //   console.log("before clicked", counter);
+  //   setCounter(prevcounter => prevcounter + 1);
+  //   setCounter(prevcounter => prevcounter + 1);
+  //   setCounter(prevcounter => prevcounter + 1);
+  //   setCounter(prevcounter => prevcounter + 1);
+  //   console.log("after clicked", counter);
+  // }
+
     const removeValue = () => {
     console.log("before clicked", counter);
     // counter = counter - 1;
